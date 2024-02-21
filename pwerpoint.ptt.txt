@@ -1,0 +1,79 @@
+# Smart Entry System
+
+## Team Participants:
+- Zuwena Manor Almufadhly
+- Rawuuya Darwusg Albalusi
+- Ahmed Said Alzeidi
+- Fatima Khalfan Alhshmi
+- Noof Nasser Alsiyabya
+
+---
+
+## Problem Statement
+
+In today's world, the need for efficient entry management systems is paramount. Traditional methods of entry using keycards or PIN codes can be cumbersome and pose security risks. Additionally, in the context of the ongoing pandemic, ensuring compliance with health protocols such as mask-wearing is essential. There is a need for an intelligent entry system that combines facial recognition and mask detection to address these challenges effectively.
+
+---
+
+## Proposed Solution
+
+The Smart Entry System is an innovative solution that leverages facial recognition and mask detection technologies to create a secure and efficient entry management system. By integrating computer vision and machine learning algorithms, the system provides seamless access control while ensuring adherence to health and safety guidelines.
+
+---
+
+## Analysis/Research and Tools
+
+### Programming Language:
+- Python
+
+### Key Packages and Libraries:
+- TensorFlow
+- Keras
+- OpenCV (cv2)
+- Scikit-Learn (sklearn)
+- Matplotlib
+- NumPy
+- Imutils
+- Tkinter
+
+---
+
+## Value Proposition
+
+The Smart Entry System offers the following value propositions:
+- Enhanced Security: Facial recognition provides secure access control without the need for physical credentials.
+- Health Compliance: Mask detection ensures adherence to health protocols, contributing to a safe environment.
+- Privacy Assurance: Facial recognition is implemented with privacy in mind, ensuring user anonymity.
+- User-Friendly Interface: The system features a graphical user interface for easy interaction.
+- Adaptability: The model can be trained and retrained to accommodate different datasets and improve accuracy over time.
+
+---
+
+## Advantages & Drawbacks
+
+### Advantages:
+- Secure and efficient entry management
+- Compliance with health and safety protocols
+- User-friendly interface
+- Privacy-focused facial recognition
+
+### Drawbacks/Out of Scope:
+- Dependency on reliable internet connection
+- Limited effectiveness in low-light environments
+- Initial setup and configuration may require technical expertise
+
+---
+
+## Demo Video
+
+[Click here to watch the demo video](#) *(Optional)*
+
+---
+
+## Link to Code
+
+[GitHub Repository](#)
+
+--- 
+
+This presentation provides an overview of the Smart Entry System, highlighting its proposed solution, value propositions, and key components. For further details, please refer to the GitHub repository and accompanying documentation.

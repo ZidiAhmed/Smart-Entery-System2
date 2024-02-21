@@ -1,0 +1,88 @@
+
+
+
+# Smart Entry System
+
+## Project Overview
+
+The **Smart Entry System** is an innovative solution developed by a team of talented individuals: Zuwena Manor Almufadhly, Rawuya Darwusg Albalusi, Ahmed Said Alzeidi, Fatima Khalfan Alhshmi, and Noof Nasser Alsiyabya. The system leverages advanced technologies in computer vision and machine learning, implemented in Python, to create an intelligent entry management system. The primary goal is to enhance and streamline entry processes by automating facial recognition and mask detection.
+
+## Purpose and Significance
+
+### Importance of Facial Recognition
+Facial recognition technology has become a powerful tool in various industries. In the context of entry systems, it provides a secure and efficient way to identify individuals, eliminating the need for traditional methods like keycards or PIN codes. The Smart Entry System aims to harness the benefits of facial recognition for improved entry management.
+
+### Addressing Health and Safety
+In the current global scenario, the importance of health and safety measures, such as wearing masks, is crucial. The system incorporates mask detection capabilities, contributing to the ongoing efforts to mitigate the spread of infections. By automating the process, the Smart Entry System ensures that individuals entering a premises are adhering to mask-wearing protocols.
+
+### Privacy-Focused Approach
+It's important to note that the facial recognition implemented in this project prioritizes privacy. The system does not identify individuals in a way that links faces to specific identities, ensuring a privacy-focused approach to entry management.
+
+## Technology Stack
+
+The Smart Entry System utilizes a range of technologies to achieve its objectives. The key components include:
+
+- **Python Programming Language:** The entire system is implemented in Python, a versatile and widely-used programming language.
+  
+- **TensorFlow and Keras:** These are popular machine learning frameworks used for building and training neural network models. In this project, they are employed for facial recognition and mask detection.
+
+- **OpenCV (Open Source Computer Vision):** OpenCV is a powerful library for computer vision tasks. It is utilized for image and video processing, including facial recognition.
+
+- **Scikit-Learn (Sklearn):** Sklearn is a machine learning library used for data preprocessing and model evaluation.
+
+- **Matplotlib and NumPy:** Matplotlib is employed for creating visualizations, while NumPy is used for numerical operations.
+
+- **Imutils:** Imutils provides convenience functions for OpenCV, simplifying various image processing tasks.
+
+- **Tkinter:** Tkinter is a Python library for creating graphical user interfaces (GUIs). It forms the basis for the system's user interface.
+
+## Features and Functionality
+
+The Smart Entry System comprises several features and functionalities:
+
+1. **Facial Recognition:** The system is capable of recognizing faces, allowing for secure and convenient entry without the need for physical credentials.
+
+2. **Mask Detection:** In adherence to health guidelines, the system detects whether individuals entering are wearing masks. This feature is crucial for maintaining a safe and healthy environment.
+
+3. **Training Model:** The system provides the capability to train and retrain its underlying neural network model. This is useful for adapting to different datasets and improving accuracy.
+
+4. **Image and Video Processing:** Users can perform mask detection on static images or real-time video streams from webcams.
+
+5. **Graphical User Interface (GUI):** The GUI (gui.py) serves as a user-friendly interface, allowing users to interact with the system seamlessly.
+
+## Installation Instructions
+
+To use the Smart Entry System, follow the installation instructions provided in the README.md file. The installation process varies based on the operating system (Linux, Windows, or macOS) and involves installing Python and several dependencies.
+
+## How to Use
+
+1. **Graphical User Interface (GUI):** The primary interaction point is the GUI (gui.py). Running this script provides a centralized interface for various tasks.
+
+2. **Training the Model:** Users can train the facial recognition and mask detection model by selecting the dataset path in the 'Settings' tab and initiating the training process.
+
+3. **Face Mask Detection for Static Images:** The system allows users to detect masks in static images. This can be done through the GUI or by using command-line scripts.
+
+4. **Face Mask Detection for Real-time Video:** Real-time mask detection in video streams can be performed using the GUI or command-line scripts.
+
+## Benefits of the Smart Entry System
+
+1. **Enhanced Security:** The facial recognition feature provides a secure and efficient means of entry, minimizing the risk associated with traditional access methods.
+
+2. **Health and Safety Compliance:** By incorporating mask detection, the system ensures compliance with health and safety guidelines, contributing to the well-being of individuals within a premises.
+
+3. **Privacy Assurance:** The system's design emphasizes privacy, ensuring that facial recognition does not compromise personal identities.
+
+4. **User-Friendly Interface:** The GUI simplifies the user experience, making it accessible to individuals with varying technical backgrounds.
+
+5. **Adaptability:** The ability to train and retrain the model allows the system to adapt to different datasets and improve accuracy over time.
+
+## Acknowledgments
+
+The development team acknowledges the contributions of each team member: Zuwena Manor Almufadhly, Rawuya Darwusg Albalusi, Ahmed Said Alzeidi, Fatima Khalfan Alhshmi, and Noof Nasser Alsiyabya.
+
+## Conclusion
+
+The Smart Entry System represents a valuable application of modern technologies to address entry management challenges. By combining facial recognition, mask detection, and a user-friendly interface, the system offers a comprehensive solution with benefits ranging from enhanced security to health compliance.
+
+For any further inquiries or demonstrations, please feel free to contact the development team.
+
