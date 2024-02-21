@@ -139,4 +139,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ```
 
-Please replace "your-username" in the badge URLs with the appropriate GitHub username once you have the project hosted on GitHub.
+Please replace "your-username" in the badge URLs with the appropriate GitHub username once you have the project hosted on GitHub.# Smart-Entery-System2
